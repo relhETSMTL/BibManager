@@ -1,0 +1,2 @@
+# BibManager
+BibSearchesManipulation
